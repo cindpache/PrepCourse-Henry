@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba modulo 2 Precourse Henry
+clonando, repositorio Cindy Pacheco, prueba 
